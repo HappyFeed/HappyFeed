@@ -2,7 +2,7 @@
 
 Full-stack Software Engineer based in Colombia with 4+ years of experience building web apps with React, TypeScript, and Django. I work across the entire stack and actively integrate AI agents into my workflow to ship faster and better.
 
-Currently at **Quantil** and taking on freelance projects on the side.
+Currently develop pasitos and taking on freelance projects on the side.
 
 ---
 
